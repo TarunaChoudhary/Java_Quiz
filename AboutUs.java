@@ -8,12 +8,12 @@ package com.mycompany.mavenproject1;
  *
  * @author Taruna
  */
-public class NewJFrame1 extends javax.swing.JFrame {
+public class AboutUs extends javax.swing.JFrame {
 
     /**
      * Creates new form NewJFrame1
      */
-    public NewJFrame1() {
+    public AboutUs() {
         initComponents();
     }
 
